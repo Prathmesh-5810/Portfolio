@@ -1,0 +1,56 @@
+PRATHMESH MISHRA
+Software Engineering Intern Candidate | M.Tech (Integrated) CSE | AI/ML/DL • Full-Stack Web • Cloud
++91 7094954915 | prathmeshmishra.5810@gmail.com | linkedin.com/in/prathmeshmishra07 | github.com/Prathmesh5810 | Chennai, Tamil Nadu
+CAREER OBJECTIVE
+Results-driven M.Tech CSE candidate specializing in AI/ML, Full-Stack Web Development, and Cloud Computing. Certified by Google, Microsoft, and
+industry leaders with 20+ credentials in LLMOps, Gemini, and Google Cloud Security. Seeking a software engineering internship to apply production
+ready skills in Python, React.js, Node.js, and Flutter toward solving complex, real-world industry challenges.
+EDUCATION
+M.Tech (Integrated) in Computer Science & Engineering
+2024 – 2029 (Expected) 
+Higher Secondary — Science (PCM + CS)
+| Sri Sai Ram Engineering College, Chennai (Anna University)
+| Kendriya Vidyalaya No. II, Kalpakkam | Graduated 2024
+TECHNICAL SKILLS
+Programming Languages: Python, C, Java, MySQL, JavaScript
+Web Development: HTML5, CSS3, JavaScript (ES6+), React.js, Node.js, REST APIs
+AI & Machine Learning: Data Preprocessing, Feature Engineering, Model Training & Testing, Deep Learning, NumPy, Pandas, 
+Matplotlib, Scikit-learn, Large Language Models (LLM), LLMOps, Prompt Engineering
+Mobile & Cloud: Flutter, Dart, Google Cloud Platform (GCP), Serverless Computing, Git, GitHub, Jupyter Notebook, VS Code
+Core Concepts: Object-Oriented Programming (OOP), Data Structures & Algorithms, Version Control, Agile, Debugging & Testing
+WORKING EXPERIENCE
+INTERSHALLA STUDENT PARTNER - AUGUST 2026
+CERTIFICATIONS
+Google Cloud Skills Boost — Gmail & Google Cloud Security (Jun 2026)
+Google Cloud Security — Introduction to APIs in Google; AI Infrastructure: Networking Techniques (Aug 2026)
+Google Developer Experts — Google Assistant Actions & Google Gemini Development (Jun 2026)
+Google Developers Group (GDG) — Build Apps with Flutter | LLMOps & Gemini (Jun 2026)
+Microsoft Learnathon ’25 — AI & Generative AI Basics | Microsoft Copilot (Oct 2025)
+Udemy — Web Development, AI, Machine Learning & Data Science (multiple); MySQL for Beginners: A Complete Training for Beginners; The
+Complete SEO Guide: SEO For Beginner to Expert (2024–2026)
+Cisco — Networking Basics (Dec 2024)
+MongoDB — MongoDB Basics for Students (Jul 2026)
+PROJECTS
+FRIYEN — AI-Powered Predictive Road Intelligence Platform | Python, Machine Learning, Computer Vision — Designed an intelligent road safety
+system that uses predictive AI models and real-time data to identify infrastructure risks, enabling proactive maintenance decisions for safer roads.
+Face Detection System | Python, OpenCV — Built a real-time multi-face recognition system using OpenCV with live camera feed support; capable of
+simultaneously detecting and tracking multiple faces.
+Voice Assistant (Jarvis) | Python, NLP, Speech Recognition — Developed a Python-based AI voice assistant using NLP libraries for task
+automation, web search, system commands, and contextual responses.
+AI Chatbot | Python, NLP, Intent Detection — Created a conversational chatbot using NLP techniques for automated intent detection and query
+response handling.
+Grocery & Café Management Systems | Python, OOP, Data Persistence — Built two separate management systems featuring inventory tracking,
+billing, role-based access, and CRUD operations using Python and OOP principles.
+Ship Ticket Booking UI | Python, Tkinter — Designed a desktop GUI application for ticket reservation and booking management using Python's
+Tkinter framework.
+AREAS OF INTEREST
+Artificial Intelligence & Generative AI — Large Language Models, prompt engineering, AI application development 
+Full-Stack Web Development — End-to-end applications with React.js, Node.js, and REST APIs
+Cloud Computing — Google Cloud Platform, cloud-native app deployment, serverless architectures
+Mobile App Development — Cross-platform applications using Flutter & Dart
+EXTRA-CURRICULAR & ACTIVITIES
+Participated in intercollege technical fests, hackathons, and coding competitions. 
+Attended AI, ML & Cloud workshops and seminars hosted by Google Developer Group (GDG) and Microsoft. 
+Active self-learner: completed 10+ courses on Udemy, Microsoft Learn & Google Cloud Skills Boost beyond academic curriculum.
+LANGUAGES
+Hindi  — Fluent  |   English  — Fluent   |  Tamil  — Fluent
